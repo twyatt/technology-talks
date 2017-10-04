@@ -5,6 +5,7 @@ Listed in reverse chronological order. The date listed is intended to be the dat
 Date     | Title                                                          | Presenter                    | Event
 :-------:|----------------------------------------------------------------|------------------------------|--------------------------------------------
 8/2/17   | [Clean App Design with Architecture Components]                | [Chuck Greb]                 | 360\|AnDev Denver, CO 2017
+6/21/17  | [Introduction to Kotlin coroutines]                            | [Roman Elizarov]             | GeekOut 2017
 5/19/17  | [Introduction to Kotlin]                                       | Andrey Beslav & Hadi Hariri  | Google I/O '17
 5/16/17  | [Building a modern Android UI]                                 | Nicolas Roard & John Hoford  |
 5/5/17   | [Coordinating Space and Time]                                  | Jesse Wilson                 |
@@ -35,6 +36,8 @@ Date     | Title                                                          | Pres
 8/21/14  | [DAGGER 2 - A New Type of dependency injection]                | Greg Kick                    |
 
 
+[Introduction to Kotlin coroutines]: https://vimeo.com/222499934
+[Roman Elizarov]: https://twitter.com/relizarov
 [Clean App Design with Architecture Components]: https://academy.realm.io/posts/360-andev-2017-chuck-greb-clean-app-design-architecture-components
 [Chuck Greb]: https://twitter.com/ecgreb
 [Introduction to Kotlin]: https://youtu.be/X1RVYt2QKQE
